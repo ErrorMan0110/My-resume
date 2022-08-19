@@ -1,0 +1,250 @@
+body {
+background-color: #F5F7FA;
+}
+li {
+background-color: #fff;
+color: #595959;
+font-size: 14px;
+line-height: 24px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-weight: normal;
+}
+span{
+color: #000000;
+background-color: #fff;
+font-size: 14px;
+line-height: 24px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+}
+.dots{
+ background-color: #fff;
+ color: #595959;
+ font-size: 14px;
+ line-height: 24px;
+ font-family: Montserrat;
+ font-style: normal;
+ font-weight: normal;
+font-weight: normal;
+}
+.box0{
+display: flex;
+flex-direction: row-reverse;
+width: 1200px;
+background: #fff;
+margin: 40px auto;
+}
+.box1{
+background: #FFFFFF;
+display: flex;
+flex-direction: column;
+padding: 100px 90px;
+}
+.about-me{
+font-size: 14px;
+font-weight: bold;
+color: black;
+font-style: normal;
+line-height: 17px;
+margin: 0 0 20px 0;
+}
+.about-me-profession{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+.about-me-name{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: #000000;
+margin: 0 0 25px 0;
+}
+.about-me-description{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+width: 400px;
+}
+.project-title{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin: 0 0 20px 0;
+}
+.work-title{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin: 0 0 20px 0;
+padding-top: 50px;
+}
+.education-title{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin: 0 0 20px 0;
+padding-top: 40px;
+}
+.my-link{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+.my-projects-list{
+padding: 0 0 0 15px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+.title2{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #000000
+}
+.my-education{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+}
+.red-text{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+}
+.title3{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8
+}
+.my-manegment{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+}
+.content{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+}
+.list1{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #595959;
+padding-left: 15px;
+}
+.sidebar-section{
+background-color: #1E2939;
+width: 370px;
+padding: 40px 0;
+}
+.contacts-section{
+margin: 50px 0 0 40px;
+}
+.teh-skill-section{
+margin: 50px 0 0 40px;
+}
+.sidebar-title{
+color: #FFFFFF;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+margin: 10px;
+}
+.contacts-type{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+color: #FFFFFF;
+background-color: #1E2939;
+margin-right: 5px;
+margin-left: 40px;
+}
+.link{
+color: #565E6A;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+.skills{
+background-color: #1E2939;
+color: #ffffff;
+font-size: 14px;
+line-height: 24px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-weight: normal;
+color:  #FB6D3A;
+padding-right: 40px;
+}
+.skills-text{
+background-color: #1E2939;
+color: #ffffff;
+font-size: 14px;
+line-height: 24px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-weight: normal;
+}
+.list2{
+padding-left: 23px;
+}
+.img{
+width:370px;
+height:354px;
+}
